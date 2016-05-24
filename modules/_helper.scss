@@ -1,0 +1,52 @@
+/* ==|====================
+   Module/Helper
+   ======================= */
+
+/* TEXT ADJUSTMENTS */
+
+.text-center {
+  text-align: center;
+}
+
+.text-left{
+  text-align: left;
+}
+
+.text-right{
+  text-align: right;
+}
+
+.text-upper{
+  text-transform: uppercase;
+}
+
+/* LAYOUT ADJUSTMENTS */
+
+.full-width {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.max-full-width {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.fright {
+  float: right;
+}
+
+.fleft {
+  float: left;
+}
+
+/* IMG ADJUSTMENTS */
+
+.img-center{
+  margin: 0 auto;
+  display: block;
+}
+
+.img-responsive{
+  width: 100%;
+}
